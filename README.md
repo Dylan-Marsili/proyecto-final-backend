@@ -22,8 +22,6 @@ estrategias de autenticacion y autorizacion con JWT, cookies, documentación de 
    
    //User Premium // premium@coder.com // contraseña: 1234
 
-# Mouckup
-
 # Habilidades
 
 Java Script, Express, MongoDB, NodeJS, JWT token, Cookies, Swaggger, Handlebars, Passport y Sessions, Socket io, Testing, Mailing, HTML, CSS, Boostrap, Git y Github, etc.
